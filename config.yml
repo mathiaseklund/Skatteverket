@@ -1,0 +1,25 @@
+general:
+  account: ServerAccount
+  AutoChargeDaily: true
+  notis: '&6[Skatteverket] &7Du har blivit beskattad för ett nytt dygn på servern! /skatteinfo för mer information'
+skatteklass:
+  high: 0.20
+  middle: 0.10
+  low: 0.05
+krav:
+  high: 50000
+  middle: 10000
+  low: 0
+maxskatt:
+  high: 25000
+  middle: 5000
+  low: 2000
+MySQL:
+  host: localhost
+  port: 3306
+  database: skatteverket
+  user: dojmgubben
+  pass: hej123
+  table: skatteverket
+#Don't edit anything below this.
+players:

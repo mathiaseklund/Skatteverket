@@ -1,0 +1,8 @@
+name: Skatteverket
+main: me.dojmgubben.skatteverket.Skatteverket
+author: DojmGubbeN
+version: 1.0
+depend: [Vault]
+commands:
+  skatteinfo:
+    usage: /<command>
